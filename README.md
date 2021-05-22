@@ -3,6 +3,7 @@
 no bookmark for this one,
 since you probably don't want the same sizes everytime,
 and you'd have to edit it the bookmark anyway
+just copy the code from `size.js`
 
 ## Enable Custom Sizes
 ```
