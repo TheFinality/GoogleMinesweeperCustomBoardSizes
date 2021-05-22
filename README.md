@@ -5,6 +5,9 @@ since you probably don't want the same sizes everytime,
 and you'd have to edit it the bookmark anyway.
 just copy the code from `size.js`
 
+## Note
+the game might crash if there are too many mines because this game isn't too well made tbh
+
 ## Enable Custom Sizes
 ```
 window.minesweeper.customBoardSize({
