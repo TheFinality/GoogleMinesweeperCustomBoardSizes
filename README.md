@@ -34,5 +34,4 @@ window.minesweeper.customBoardSize({
 If you want to disable, just refresh.
 
 
-###
-  <3 fishes
+### <3 fishes
